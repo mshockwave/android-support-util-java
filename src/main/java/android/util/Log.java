@@ -49,7 +49,6 @@ public class Log {
         e(tag, message + '\n' + getStackTraceString(t));
     }
 
-    /*TODO: License*/
     public static String getStackTraceString(Throwable tr) {
         if (tr == null) {
             return "";
