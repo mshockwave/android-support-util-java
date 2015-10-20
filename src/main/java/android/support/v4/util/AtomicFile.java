@@ -25,7 +25,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 /**
- * Static library support version of the framework's {@link android.util.AtomicFile},
+ * Static library support version of the framework's {android.util.AtomicFile},
  * a helper class for performing atomic operations on a file by creating a
  * backup file until a write has successfully completed.
  * <p>

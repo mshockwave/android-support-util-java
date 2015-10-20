@@ -18,7 +18,7 @@ package android.support.v4.util;
 
 /**
  * SparseArray mapping longs to Objects, a version of the platform's
- * {@link android.util.LongSparseArray} that can be used on older versions of the
+ * {android.util.LongSparseArray} that can be used on older versions of the
  * platform.  Unlike a normal array of Objects,
  * there can be gaps in the indices.  It is intended to be more memory efficient
  * than using a HashMap to map Longs to Objects, both because it avoids

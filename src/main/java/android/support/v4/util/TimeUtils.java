@@ -19,7 +19,7 @@ package android.support.v4.util;
 import java.io.PrintWriter;
 
 /**
- * Helper for accessing features in {@link android.util.TimeUtils}
+ * Helper for accessing features in {android.util.TimeUtils}
  * introduced after API level 4 in a backwards compatible fashion.
  *
  * @hide

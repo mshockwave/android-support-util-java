@@ -17,7 +17,7 @@
 package android.support.v4.util;
 
 /**
- * Helper for accessing features in {@link android.util.DebugUtils}
+ * Helper for accessing features in { android.util.DebugUtils}
  * introduced after API level 4 in a backwards compatible fashion.
  *
  * @hide

@@ -17,8 +17,8 @@
 package android.support.v4.util;
 
 /**
- * A copy of the current platform (currently {@link android.os.Build.VERSION_CODES#KITKAT}
- * version of {@link android.util.SparseArray}; provides a removeAt() method and other things.
+ * A copy of the current platform (currently { android.os.Build.VERSION_CODES#KITKAT}
+ * version of { android.util.SparseArray}; provides a removeAt() method and other things.
  */
 public class SparseArrayCompat<E> implements Cloneable {
     private static final Object DELETED = new Object();
